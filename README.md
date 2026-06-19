@@ -78,13 +78,6 @@ Currently, I'm working at Nokia's Research & Development team, developing automa
 
 ---
 
-### 🔒 Cybersecurity
-
-![IDS](https://img.shields.io/badge/Intrusion%20Detection-Systems-red?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network-Security-blue?style=for-the-badge)
-![Traffic Analysis](https://img.shields.io/badge/Traffic-Analysis-success?style=for-the-badge)
-
----
 
 ## 💼 Professional Experience
 
