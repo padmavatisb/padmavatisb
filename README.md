@@ -229,8 +229,6 @@ Developed during my internship at Nokia.
 
 💼 LinkedIn: https://www.linkedin.com/in/padmavati-s-b-/
 
-🌐 Portfolio: your-portfolio-url
-
 ---
 
 ### 💡 Motto
